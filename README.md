@@ -46,6 +46,11 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+![ML1](https://user-images.githubusercontent.com/94827772/169458821-c2c6ad05-614e-421a-b139-061897a7df2a.png)
+</br>
+![ML2](https://user-images.githubusercontent.com/94827772/169458818-678e6f7e-1b59-4fbc-b504-0a78e8de4181.png)
+</br>
+![ML3](https://user-images.githubusercontent.com/94827772/169458812-1f76f1b2-2670-4262-b6bc-b786750fc320.png)
 
 
 
